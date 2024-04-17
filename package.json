@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "daisyui": "^4.10.1",
+    "tailwindcss": "^3.4.3"
+  },
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/static/portfolio.css -o ./src/static/output.css --watch"
+  }
+}
