@@ -36,6 +36,6 @@ This exercise aims to create a webpage for your personal portfolio using Tailwin
 - Design a footer with social media icons and copyright information.
 - Use Tailwind classes for flexbox, icon styling, and text alignment.
 
-## What You're Aiming For
+## What I'am Aiming For
 
 By completing this exercise, i gain hands-on experience with Tailwind CSS and learn how to use its classes to create a visually appealing and responsive personal portfolio webpage. This exercise help me to solidify my understanding of Tailwind CSS concepts and prepare me for building real-world projects with the framework.
